@@ -1,0 +1,20 @@
+{
+  "id": "tunda-image",
+  "name": "Tunda Image",
+  "host": {
+    "app": "XD",
+    "minVersion": "13.0.0"
+  },
+  "version": "1.0.0",
+  "uiEntryPoints": [
+    {
+      "type": "menu",
+      "label": "Tunda Image",
+      "commandId": "showModal",
+      "shortcut": {
+        "win": "Ctrl+Shift+Alt+T",
+        "mac": "Cmd+Shift+Alt+T"
+      }
+    }
+  ]
+}
