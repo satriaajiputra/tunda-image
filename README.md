@@ -6,7 +6,7 @@
 
 A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url.
 
-This plugin is combination from [plugin-samples](https://github.com/AdobeXD/plugin-samples) and [xd-dialog-helper](https://github.com/pklaschka/xd-dialog-helper). Thanks to the author.
+This plugin is combination from [plugin-samples](https://github.com/AdobeXD/plugin-samples){:target="\_blank"} and [xd-dialog-helper](https://github.com/pklaschka/xd-dialog-helper){:target="\_blank"}. Thanks to the author.
 
 # Quick Usage
 
