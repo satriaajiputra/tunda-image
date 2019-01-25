@@ -1,6 +1,14 @@
 {
-  "id": "tunda-image",
+  "id": "4430e65d",
   "name": "Tunda Image",
+  "icons": [
+    {
+      "width": 96,
+      "height": 96,
+      "path": "src/icon@2x.png"
+    }
+  ],
+  "description": "A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url",
   "host": {
     "app": "XD",
     "minVersion": "13.0.0"
