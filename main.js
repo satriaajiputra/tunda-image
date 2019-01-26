@@ -806,11 +806,18 @@ async function showModal(selection) {
         {
           type: DialogHelper.TEXT_INPUT,
           id: 'url',
-          label: 'http://...',
+          label: 'Direct Image URL:',
           value: ''
+        },
+        {
+          type: DialogHelper.TEXT,
+          id: 'help',
+          label:
+            'Use the direct image url. For example "http://somesite.com/images/someimage.png"'
         }
       ],
       {
+        width: 480,
         okButtonText: 'Tunda Image'
       }
     );
