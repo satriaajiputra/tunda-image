@@ -14,4 +14,6 @@ This plugin is combination from [plugin-samples](https://github.com/AdobeXD/plug
 2. Use the shortcut `Ctrl + Shift + Alt + T` for Windows
 3. Use the shortcut `Cmd + Shift + Alt + T` for Mac
 
+![Quick Usage Tunda Image](http://images2.imagebam.com/26/cd/48/af70151113974534.gif)
+
 Copyright &copy; 2019. Satria Aji Putra Karma Jaya
