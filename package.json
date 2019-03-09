@@ -1,7 +1,7 @@
 {
   "name": "tunda-image",
-  "version": "1.0.0",
-  "description": "Plugin for fill an image to a shape from an url.",
+  "version": "1.0.1",
+  "description": "With Tunda Image you can place any image at internet to your shape via the direct image url like https://somesite.com/imagename.png. Or you can place any image in google image to your shape just copy image address in your browser and paste it to Tunda Image and the image will be placed to your shape.",
   "author": "Satria Aji Putra Karma Jaya",
   "license": "MIT",
   "dependencies": {
