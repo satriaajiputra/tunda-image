@@ -3,15 +3,38 @@
   "name": "Tunda Image",
   "icons": [
     {
+      "width": 48,
+      "height": 48,
+      "path": "src/tunda_image@1x.png"
+    },
+    {
+      "width": 96,
+      "height": 96,
+      "path": "src/tunda_image@2x.png"
+    },
+    {
+      "width": 144,
+      "height": 144,
+      "path": "src/tunda_image@3x.png"
+    },
+    {
       "width": 192,
       "height": 192,
-      "path": "src/icon.png"
+      "path": "src/tunda_image@4x.png"
     }
   ],
-  "description": "A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url",
+  "summary": "Fill any image to your shape",
+  "author": "Satria Aji Putra Karma Jaya",
+  "company": "Satmaxt Developer",
+  "keywords": ["image", "productivity", "automation"],
+  "languages": ["en"],
+  "helpUrl": "satriamaxt@gmail.com",
+  "website": "https://satmaxt.xyz",
+  "description": "With Tunda Image you can place any image at internet to your shape via the direct image url like https://somesite.com/imagename.png. Or you can place any image in google image to your shape just copy image address in your browser and paste it to Tunda Image and the image will be placed to your shape.",
   "host": {
     "app": "XD",
-    "minVersion": "15.0.0"
+    "minVersion": "13.0",
+    "maxVersion": "16.0"
   },
   "version": "1.0.1",
   "uiEntryPoints": [
