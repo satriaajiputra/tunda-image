@@ -1,7 +1,7 @@
 # tunda-image
 
 <p align="center">
-  <img src="https://i.postimg.cc/XJ41PNxS/icon-2x.png" alt="Tunda Image" />
+  <img src="https://github.com/satriaajiputra/tunda-image/raw/master/src/icon.png" width="80" alt="Tunda Image" />
 </p>
 
 A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url.
