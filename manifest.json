@@ -3,17 +3,17 @@
   "name": "Tunda Image",
   "icons": [
     {
-      "width": 96,
-      "height": 96,
-      "path": "src/icon@2x.png"
+      "width": 192,
+      "height": 192,
+      "path": "src/icon.png"
     }
   ],
   "description": "A simple plugin for Adobe XD, this plugin can fill an image to a shape from an url",
   "host": {
     "app": "XD",
-    "minVersion": "13.0.0"
+    "minVersion": "15.0.0"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "uiEntryPoints": [
     {
       "type": "menu",
