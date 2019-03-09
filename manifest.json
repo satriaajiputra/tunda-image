@@ -29,6 +29,7 @@
   "keywords": ["image", "productivity", "automation"],
   "languages": ["en"],
   "helpUrl": "satriamaxt@gmail.com",
+  "website": "https://satmaxt.xyz",
   "description": "With Tunda Image you can place any image at internet to your shape via the direct image url like https://somesite.com/imagename.png. Or you can place any image in google image to your shape just copy image address in your browser and paste it to Tunda Image and the image will be placed to your shape.",
   "host": {
     "app": "XD",
