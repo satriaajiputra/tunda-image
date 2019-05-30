@@ -34,7 +34,7 @@
   "host": {
     "app": "XD",
     "minVersion": "13.0",
-    "maxVersion": "16.0"
+    "maxVersion": "19.0"
   },
   "version": "1.0.1",
   "uiEntryPoints": [
