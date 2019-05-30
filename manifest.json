@@ -3,24 +3,29 @@
   "name": "Tunda Image",
   "icons": [
     {
+      "width": 24,
+      "height": 24,
+      "path": "src/tunda_image@1x.png"
+    },
+    {
       "width": 48,
       "height": 48,
-      "path": "src/tunda_image@1x.png"
+      "path": "src/tunda_image@2x.png"
     },
     {
       "width": 96,
       "height": 96,
-      "path": "src/tunda_image@2x.png"
+      "path": "src/tunda_image@3x.png"
     },
     {
       "width": 144,
       "height": 144,
-      "path": "src/tunda_image@3x.png"
+      "path": "src/tunda_image@4x.png"
     },
     {
       "width": 192,
       "height": 192,
-      "path": "src/tunda_image@4x.png"
+      "path": "src/tunda_image@5x.png"
     }
   ],
   "summary": "Fill any image to your shape",
@@ -36,7 +41,7 @@
     "minVersion": "13.0",
     "maxVersion": "19.0"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "uiEntryPoints": [
     {
       "type": "menu",
