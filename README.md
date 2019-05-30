@@ -8,6 +8,26 @@ A simple plugin for Adobe XD, this plugin can fill an image to a shape from an u
 
 This plugin is combination from [plugin-samples](https://github.com/AdobeXD/plugin-samples) and [xd-dialog-helper](https://github.com/pklaschka/xd-dialog-helper). Thanks to the author.
 
+# Installation for Development
+
+1. Clone repository
+```bash
+git clone https://github.com/satriaajiputra/tunda-image.git
+```
+2. Install packages
+```bash
+npm install
+```
+3. Start Development
+```bash
+node run watch
+```
+
+4. Publish for Production
+```bash
+node run build
+```
+
 # Quick Usage
 
 1. Select a shape or rect
